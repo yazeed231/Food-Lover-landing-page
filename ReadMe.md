@@ -10,7 +10,3 @@ Excited to share my latest front-end development project: a modern, fully-featur
 • AOS Library (Animate On Scroll): For smooth, elegant scroll-triggered animations as users navigate through sections.
 • Clean & Organized CSS: Structured, maintainable code featuring a rich, custom color palette tailored to the restaurant's brand identity.
 • Fully Responsive: Custom media queries ensuring an optimized user experience on mobile phones, tablets, and desktops.
-
-I’d love to hear your thoughts and feedback in the comments! 👇💬
-
-#WebDevelopment #Frontend #HTML5 #CSS3 #Flexbox #WebDesign #UI_UX #JavaScript #AOS #Coding #Developer #FoodLover #Projects #WebDeveloper #CodeLife
